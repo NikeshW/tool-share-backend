@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "user_id":1,
+        "name":"hammer",
+        "image":"https://www.albanycountyfasteners.com/mm5/graphics/00000001/Curved-Claw-Hammer-PRODUCT-1.jpg",
+        "is_available": false
+    },
+    {
+        "id":2,
+        "user_id":3,
+        "name":"lawn-mower",
+        "image":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1673556984-honda-self-propelled-lawn-mowers-hrx217vka-64_1000.jpg?crop=1xw:1.00xh;center,top&resize=980:*",
+        "is_available": false
+    },
+    {
+        "id":3,
+        "user_id":3,
+        "name":"leaf blower",
+        "image":"https://static.grainger.com/rp/s/is/image/Grainger/493X87_AS02",
+        "is_available": false
+    },
+    {
+        "id":4,
+        "user_id":2,
+        "name":"pressure washer",
+        "image":"https://2e1293630802db8d0d56-50fcdb1c10e3e49a3d1b0541a2f13b69.ssl.cf1.rackcdn.com/product/primary_feature_images/8db0c50c75e8423c83395197a69ab091.png",
+        "is_available": false
+    },
+    {
+        "id":5,
+        "user_id":1,
+        "name":"carpet cleaner",
+        "image":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1666125379-31tu5C9qzlL._SL500_.jpg?crop=1xw:1.00xh;center,top&resize=980:*",
+        "is_available": false
+    }
+
+
+]
