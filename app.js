@@ -24,4 +24,8 @@ app.get("/test", (request, response) => {
   });
 });
 
+app.get("/greet", (request, response) => {
+  response.json("Hello World")
+})
+
 module.exports = app;
